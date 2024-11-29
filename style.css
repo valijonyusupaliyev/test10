@@ -1,0 +1,51 @@
+.kok{
+background-color: blue;
+text-align: center;
+color: white;
+font-family: inter;
+width: 400px;
+height: 70px;
+margin: 31px auto;
+padding: 26px 0;
+border-radius: 20px;
+
+}
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+background-color: #70FF7E;
+
+}
+.kok>h2{
+font-size: 48px;
+color: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.svetafor>center>div{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+.svetafor{
+margin: 0 auto;
+background-color: black;
+width: 451px;
+padding: 69px 0px;
+}
+.qizil{
+margin: 20px 0;
+background-color: red;
+border: 3px solid #70FF7E;
+}
+.sariq{
+margin: 20px 0;
+background-color: yellow;
+border: 5px solid #70FF7E;
+}
+.yashil{
+background-color: rgb(5,254,5);
+
+}
